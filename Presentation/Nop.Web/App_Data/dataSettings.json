@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=CO-IP-198;Initial Catalog=BShopDB;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=Erp123!",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
